@@ -80,7 +80,7 @@ El objetivo de este proyecto es **validar la correcta funcionalidad, estabilidad
 
 ### TC008
 
-![{0D6E8F7D-B470-44DF-AF13-8079ADBEE29F}.png](FakeStoreApi/0D6E8F7D-B470-44DF-AF13-8079ADBEE29F.png)
+![{0D6E8F7D-B470-44DF-AF13-8079ADBEE29F}.png](images/0D6E8F7D-B470-44DF-AF13-8079ADBEE29F.png)
 
 ### TC009
 
