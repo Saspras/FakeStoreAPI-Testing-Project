@@ -48,35 +48,35 @@ El objetivo de este proyecto es **validar la correcta funcionalidad, estabilidad
 
 ### TC001
 
-![{FA4DC784-925B-4E07-AB41-EDA2E0E7B203}.png](FakeStoreApi/FA4DC784-925B-4E07-AB41-EDA2E0E7B203.png)
+![{FA4DC784-925B-4E07-AB41-EDA2E0E7B203}.png](images/FA4DC784-925B-4E07-AB41-EDA2E0E7B203.png)
 
 ### TC002
 
-![{68C871F1-170F-497A-AD6A-864061C6F229}.png](FakeStoreApi/68C871F1-170F-497A-AD6A-864061C6F229.png)
+![{68C871F1-170F-497A-AD6A-864061C6F229}.png](images/68C871F1-170F-497A-AD6A-864061C6F229.png)
 
 ## Products
 
 ### TC003
 
-![{24D5A770-7D0A-4AA5-B884-828B88CA0431}.png](FakeStoreApi/24D5A770-7D0A-4AA5-B884-828B88CA0431.png)
+![{24D5A770-7D0A-4AA5-B884-828B88CA0431}.png](images/24D5A770-7D0A-4AA5-B884-828B88CA0431.png)
 
 ### TC004
 
-![{BF3FD327-2AAF-4E35-8C61-0E37B4043A4E}.png](FakeStoreApi/BF3FD327-2AAF-4E35-8C61-0E37B4043A4E.png)
+![{BF3FD327-2AAF-4E35-8C61-0E37B4043A4E}.png](images/BF3FD327-2AAF-4E35-8C61-0E37B4043A4E.png)
 
 ### TC005
 
-![{7F4E038F-6F3B-467B-AEF2-2E905D23A3A6}.png](FakeStoreApi/7F4E038F-6F3B-467B-AEF2-2E905D23A3A6.png)
+![{7F4E038F-6F3B-467B-AEF2-2E905D23A3A6}.png](images/7F4E038F-6F3B-467B-AEF2-2E905D23A3A6.png)
 
 ### TC006
 
-![{AF085B93-C448-421A-846A-227A95C13002}.png](FakeStoreApi/AF085B93-C448-421A-846A-227A95C13002.png)
+![{AF085B93-C448-421A-846A-227A95C13002}.png](images/AF085B93-C448-421A-846A-227A95C13002.png)
 
 ## Cart
 
 ### TC007
 
-![{980A5559-1D2F-4D32-A68E-CDC262C5E7D3}.png](FakeStoreApi/980A5559-1D2F-4D32-A68E-CDC262C5E7D3.png)
+![{980A5559-1D2F-4D32-A68E-CDC262C5E7D3}.png](images/980A5559-1D2F-4D32-A68E-CDC262C5E7D3.png)
 
 ### TC008
 
@@ -84,54 +84,54 @@ El objetivo de este proyecto es **validar la correcta funcionalidad, estabilidad
 
 ### TC009
 
-![{39F463AF-B1F5-4D57-B9CD-09AE218AB12A}.png](FakeStoreApi/39F463AF-B1F5-4D57-B9CD-09AE218AB12A.png)
+![{39F463AF-B1F5-4D57-B9CD-09AE218AB12A}.png](images/39F463AF-B1F5-4D57-B9CD-09AE218AB12A.png)
 
 ### TC010
 
-![{FA390546-B70A-4608-BA7E-D907B9679C8A}.png](FakeStoreApi/FA390546-B70A-4608-BA7E-D907B9679C8A.png)
+![{FA390546-B70A-4608-BA7E-D907B9679C8A}.png](images/FA390546-B70A-4608-BA7E-D907B9679C8A.png)
 
 ## Users
 
 ### TC011
 
-![{55626AA2-A8AB-4E66-810A-E6F7AE22EAB8}.png](FakeStoreApi/55626AA2-A8AB-4E66-810A-E6F7AE22EAB8.png)
+![{55626AA2-A8AB-4E66-810A-E6F7AE22EAB8}.png](images/55626AA2-A8AB-4E66-810A-E6F7AE22EAB8.png)
 
 ### TC012
 
-![{4CA2DEA8-7EC3-4872-BA1E-9A0EDD300D32}.png](FakeStoreApi/4CA2DEA8-7EC3-4872-BA1E-9A0EDD300D32.png)
+![{4CA2DEA8-7EC3-4872-BA1E-9A0EDD300D32}.png](images/4CA2DEA8-7EC3-4872-BA1E-9A0EDD300D32.png)
 
 ### TC013
 
-![{30B6455B-5D3E-44AE-937A-0DCEB4BBED2B}.png](FakeStoreApi/30B6455B-5D3E-44AE-937A-0DCEB4BBED2B.png)
+![{30B6455B-5D3E-44AE-937A-0DCEB4BBED2B}.png](images/30B6455B-5D3E-44AE-937A-0DCEB4BBED2B.png)
 
 ### TC014
 
-![{6FEECFF9-D373-432A-AC41-0E421959FF8F}.png](FakeStoreApi/6FEECFF9-D373-432A-AC41-0E421959FF8F.png)
+![{6FEECFF9-D373-432A-AC41-0E421959FF8F}.png](images/6FEECFF9-D373-432A-AC41-0E421959FF8F.png)
 
 ### TC015
 
-![{38473070-5207-4728-8536-8E0707C70A22}.png](FakeStoreApi/38473070-5207-4728-8536-8E0707C70A22.png)
+![{38473070-5207-4728-8536-8E0707C70A22}.png](images/38473070-5207-4728-8536-8E0707C70A22.png)
 
 # PERFORMANCE TEST
 
 Se realizo un performance test, para revisar los tiempos de carga de cada seccion. La evaluacion se realizo con 10 usuarios virtuales durante 3 minutos. Dando una tasa de error 0% con un time request max de 967ms, y un min de 247ms, promediando en 302ms. Con un total de 4.870 request sended en total y 25.37 request per second.
 
-![{EE8741F6-3445-49C1-BF80-3A15623FC2F7}.png](FakeStoreApi/EE8741F6-3445-49C1-BF80-3A15623FC2F7.png)
+![{EE8741F6-3445-49C1-BF80-3A15623FC2F7}.png](images/EE8741F6-3445-49C1-BF80-3A15623FC2F7.png)
 
-[fakestoreapi-performance-report-4.html](FakeStoreApi/fakestoreapi-performance-report-4.html)
+[fakestoreapi-performance-report-4.html](images/fakestoreapi-performance-report-4.html)
 
 # SMOKE TEST
 
 Se realizó una prueba de humo (smoke test) al endpoint de productos para validar su funcionalidad básica y rendimiento. La prueba fue **exitosa en todos los aspectos**, verificando tanto la respuesta HTTP como la estructura de datos. El endpoint respondió correctamente con un código **200 OK** en **311 ms**, muy por debajo del límite aceptable de 2000ms. Se validó que el cuerpo de respuesta es un array JSON que contiene productos con todas las propiedades requeridas (id, title, price, description, category, image), con sus tipos de datos correctos y valores válidos, confirmando que la API está operativa y cumpliendo con los estándares esperados.
 
-![{5C754643-7B1F-4EE7-9E6E-2B27C1DDCC79}.png](FakeStoreApi/5C754643-7B1F-4EE7-9E6E-2B27C1DDCC79.png)
+![{5C754643-7B1F-4EE7-9E6E-2B27C1DDCC79}.png](images/5C754643-7B1F-4EE7-9E6E-2B27C1DDCC79.png)
 
 # REPORTE NEWMAN
 
 Reporte generado automáticamente con Newman y reporter htmlextra.
 Incluye resultados de todas las solicitudes, tiempos promedio, tests ejecutados y resultados.
 
-[Reporte de ejecucion - Newman](FakeStoreApi/FakeStoreReport.html)
+[Reporte de ejecucion - Newman](images/fakestoreapi-performance-report-4.html)
 
 # Conclusion del proyecto
 
